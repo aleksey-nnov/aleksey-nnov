@@ -68,3 +68,4 @@ const aleksey_nnov = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
+![OAuth](https://img.shields.io/badge/oauth-%2300000f.svg?style=for-the-badge&logo=oauth&logoColor=white)
