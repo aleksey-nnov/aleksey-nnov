@@ -7,7 +7,7 @@ I develop web-sites since 2012 and currently working on frontend of enterprise w
 
 ```javascript
 const aleksey_nnov = {
-    pronouns: "He" | "Him",
+    pronouns: "He" || "Him",
     location: "Russia",
     askMeAbout: ["web dev", "tech", "app dev", "cross country skiing"],
     technologies: "see Tech Stack section",
